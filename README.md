@@ -1,4 +1,4 @@
-![capa](https://camo.githubusercontent.com/d25397e9df01fe7882dcc1cbc96bdf052ffd7d0c/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732e706e67)
+![cover_picture](src/images/github_cover_picture.png)
 <h3 align="center" >Bootcamp Go Stack | Fundamentos Node.js</h3>
 
 Desafio sobre fundamentos de Node.js aplicado no Bootcamp GoStack da RocketSeat
@@ -20,7 +20,7 @@ yarn install
 
 ### Rotas
 - `[POST] /transactions`: cria uma transação
-- `[GET] /transactions`: lista as transações e o balanço 
+- `[GET] /transactions`: lista as transações e o balanço
 
 #### POST /transactions
 
